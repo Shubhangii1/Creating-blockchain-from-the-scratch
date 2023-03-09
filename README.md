@@ -8,7 +8,10 @@ A blockchain is a decentralized, distributed ledger that is used to record trans
 
 In this, I created a simple blockchain that can handle the following tasks:
 
-Create a new block
-Add a block to the blockchain
-Retrieve the entire blockchain
-and gives data back in the form of string.
+1-Create a new block
+
+2-Add a block to the blockchain
+
+3-Retrieve the entire blockchain
+
+4- and gives data back in the form of string.
